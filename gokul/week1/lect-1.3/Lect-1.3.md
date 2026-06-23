@@ -5,34 +5,35 @@
 1) What will be the output of the below code?
 
 ```
-print("hello","world")
+print("hello","world") - hello , world
 ```
 
 3) what will the output of the below code?
 ```
-print("hel",,,"eorld")
+print("hel",,,"eorld")  invalid 
+debug code- print("hel","eorld")  = hel, eorld
 ```
 
 
 4) What will be the output of the below code?
 ```
-print("hello","world","earth")
+print("hello","world","earth") hello, world, earth
 ```
 
 5) Is below code valid?
 if not why?, if valid what will be the output?
 ```
-print("hello",12,24.5)
+print("hello",12,24.5) yes hello , 12, 24.5
 ```
 
 6) what will the below code do?
     ```
     print('hello')
-    ```
+    ``` hello
 
 7) what will the below code do?
     ```
-    print['hello']
+    print['hello']- invalid paranthesis
     ```
 
 8) which of the below brackets are valid in python?
@@ -40,13 +41,14 @@ print("hello",12,24.5)
 print("hello")
 print{"hello"}
 print["hello"]
-print<"hello">
+print<"hello"> first one only run
 ```
 
 9) Write a python code that has the below output as it is
 ```
 it's sunday
-he is "The President"
+he is "The President" print("it's sunday")
+print('he is "The President" ')
 ```
 
 10) Correct the mistake so that the output is as below
@@ -61,4 +63,8 @@ CODE :
 print('I'm from sathy`)
 print('my name is "Gokul')
 print('i like 'red' color')
+```
+print('I'm from sathy')
+print('my name is "Gokul"')
+print("i like 'red' color")
 ```
