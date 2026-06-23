@@ -99,6 +99,13 @@ output
 output for all 3 questions
 <class 'str'>
 
+a8) What will be the output, if i give 12.2 as input?
+```
+n=int(input())
+ print(n)
+  output -ValueError: invalid literal for int() with base 10: '12.2' 
+  debug  if we add integer but not in decimal it works
+
 9) Take an input from command line as "GOKUL" and store it in a variable 'a' , what will be the output?
 ```
 LINE-1
