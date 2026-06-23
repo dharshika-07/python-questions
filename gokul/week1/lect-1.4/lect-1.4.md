@@ -170,10 +170,25 @@ output
 ```
 LINE-1
 print(a*2)
+
+a= "GOKUL"
+print(a*2)#  "string" *number → repeats the string 
+output 
+GOKULGOKUL
 ```
 
 10) Replace LINE-1 and LINE-2, so that we take input from user,  a number as input form user and we should print the square of the number as output.
+
+
 ```
 LINE-1
 LINE-2
+
+n = int(input())
+print(n * n)
+
+ output 
+ 5 
+ 25
+ 
 ```

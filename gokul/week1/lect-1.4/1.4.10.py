@@ -3,3 +3,5 @@
 # LINE-1
 # LINE-2
 # ```
+n = int(input())
+print(n * n)
