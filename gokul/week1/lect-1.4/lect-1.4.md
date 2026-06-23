@@ -82,9 +82,22 @@ print(n)
 print(n+1)
 print(n+2)
 print(n+3)
+output 
+5
+5
+6
+7
+8
 ```
 
 8) How would you take input from Command line and print it?
+#x=input()
+#print(type(x))
+#what will be the output if i give "gokul" in command line?
+#what will be the output if i give 12.2 in command line?
+#what will be the output if i give 12 in command line
+output for all 3 questions
+<class 'str'>
 
 9) Take an input from command line as "GOKUL" and store it in a variable 'a' , what will be the output?
 ```
