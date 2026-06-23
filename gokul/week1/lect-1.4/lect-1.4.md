@@ -131,6 +131,32 @@ output
 <class 'str'>
 <class 'float'>
 10  (10 is added because z=10.5 it is in decimal but in int it should be a whole number so the z value is been  given)
+
+
+3 
+
+# predict the output
+#x="10.5"
+#a="21"
+#b=int(a)
+#y=int(x)
+#print(a)
+#print(type(x))
+#print(type(y))
+# this creates value error so when we change the code 
+x = "10.5"
+a="21"
+b=int(a)
+y = int(float(x))
+
+print(a)
+print(type(x))
+print(type(y))
+
+output 
+21
+<class 'str'>
+<class 'int'>
 <class 'int'>  
 9) Take an input from command line as "GOKUL" and store it in a variable 'a' , what will be the output?
 ```
