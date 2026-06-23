@@ -190,5 +190,10 @@ print(n * n)
  output 
  5 
  25
- 
+
 ```
+11) ## take a number as input, and print the 2 power of that number
+n = int(input())
+print(2 ** n)
+ input 3
+ output 8
