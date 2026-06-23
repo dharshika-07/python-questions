@@ -90,7 +90,14 @@ output
 8
 ```
 
-8) How would you take input from Command line and print it?
+8) How would you take input from Command line and print it?   
+
+x = input()
+print(x)
+ output 
+ gokul
+gokul
+8.1)
 #x=input()
 #print(type(x))
 #what will be the output if i give "gokul" in command line?
@@ -99,7 +106,7 @@ output
 output for all 3 questions
 <class 'str'>
 
-a8) What will be the output, if i give 12.2 as input?
+8.2) What will be the output, if i give 12.2 as input?
 ```
 n=int(input())
  print(n)
@@ -107,7 +114,7 @@ n=int(input())
   debug  if we add integer but not in decimal it works
 
 
- 2) # what will be the output?
+ 8.3) # what will be the output?
 x="hello"
 print(type(x))
 
@@ -133,7 +140,7 @@ output
 10  (10 is added because z=10.5 it is in decimal but in int it should be a whole number so the z value is been  given)
 
 
-3 
+8.4)
 
 # predict the output
 #x="10.5"
@@ -158,6 +165,7 @@ output
 <class 'str'>
 <class 'int'>
 <class 'int'>  
+
 9) Take an input from command line as "GOKUL" and store it in a variable 'a' , what will be the output?
 ```
 LINE-1
