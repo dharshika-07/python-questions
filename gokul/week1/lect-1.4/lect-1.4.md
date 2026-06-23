@@ -66,6 +66,11 @@ a=a+1
 print(a)
 a=a+1
 print(a)
+output  
+10
+11
+12
+13
 ```
 
 
