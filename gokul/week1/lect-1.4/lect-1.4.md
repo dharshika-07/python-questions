@@ -5,7 +5,7 @@
 1) What does the following code do?
 ```
 a=10
-print(a)
+print(a) =10
 ```
 
 2) What does the following code do?
@@ -13,7 +13,9 @@ print(a)
 a=10
 print(a)
 b=20
-print(b)
+print(b) 
+10 
+20
 ```
 3) What does the following code do?
 ```
@@ -23,6 +25,11 @@ b=20
 print(b)
 print(a+b)
 print(a*b)
+output
+10
+20
+30
+200
 ```
 
 4) what will be the output of below code?
@@ -30,7 +37,10 @@ print(a*b)
 a=10
 print(a)
 a=a+1
-print(a)
+print(a)\
+output
+10
+11
 ```
 
 5) what will be the output of below code?
