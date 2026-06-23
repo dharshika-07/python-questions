@@ -106,6 +106,32 @@ n=int(input())
   output -ValueError: invalid literal for int() with base 10: '12.2' 
   debug  if we add integer but not in decimal it works
 
+
+ 2) # what will be the output?
+x="hello"
+print(type(x))
+
+y="10.5"
+print(type(y))
+# convert y's datatype to  float
+
+
+z=10.5
+print(type(z))
+# what is the datatype of z?
+
+z = int(z)
+print(z)
+print(type(z))
+# convert z to an integer
+
+
+output 
+<class 'str'>
+<class 'str'>
+<class 'float'>
+10  (10 is added because z=10.5 it is in decimal but in int it should be a whole number so the z value is been  given)
+<class 'int'>  
 9) Take an input from command line as "GOKUL" and store it in a variable 'a' , what will be the output?
 ```
 LINE-1
